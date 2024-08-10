@@ -1,7 +1,10 @@
-/*  your css code here. If applicable */
-.card {
+		.card {
             border-radius: 10px;
         }
-        .card-title, .card-text {
+        .card-title, .card-text, h2 {
             text-align: center;
         }
+img{
+	width:200px;
+	text-align:center;
+}
