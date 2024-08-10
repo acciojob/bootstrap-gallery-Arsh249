@@ -1,1 +1,7 @@
 /*  your css code here. If applicable */
+.card {
+            border-radius: 10px;
+        }
+        .card-title, .card-text {
+            text-align: center;
+        }
